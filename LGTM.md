@@ -5,3 +5,4 @@
 <img width="360" height="240" alt="LGTM_quadruplets" src="https://raw.githubusercontent.com/kentem-sh-yoshimura/kentem-sh-yoshimura/refs/heads/main/LGTM/LGTM_quadruplets.png" />
 <img width="240" height="240" alt="LGTM_ninja" src="https://raw.githubusercontent.com/kentem-sh-yoshimura/kentem-sh-yoshimura/refs/heads/main/LGTM/LGTM_ninja.png" />
 <img width="360" height="240" alt="LGTM_reiwa" src="https://raw.githubusercontent.com/kentem-sh-yoshimura/kentem-sh-yoshimura/refs/heads/main/LGTM/LGTM_reiwa.png" />
+<img width="240" height="360" alt="LGTM_chari" src="https://raw.githubusercontent.com/kentem-sh-yoshimura/kentem-sh-yoshimura/refs/heads/main/LGTM/LGTM_chari.png" />
