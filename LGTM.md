@@ -8,3 +8,5 @@
 <img width="240" height="360" alt="LGTM_chari" src="https://raw.githubusercontent.com/kentem-sh-yoshimura/kentem-sh-yoshimura/refs/heads/main/LGTM/LGTM_chari.png" />
 <img width="240" height="240" alt="LGTM_coding" src="https://raw.githubusercontent.com/kentem-sh-yoshimura/kentem-sh-yoshimura/refs/heads/main/LGTM/LGTM_coding.png" />
 <img width="240" height="360" alt="LGTM_UE" src="https://raw.githubusercontent.com/kentem-sh-yoshimura/kentem-sh-yoshimura/refs/heads/main/LGTM/LGTM_UE.png" />
+<img width="240" height="240" alt="OK_MARU" src="https://raw.githubusercontent.com/kentem-sh-yoshimura/kentem-sh-yoshimura/refs/heads/main/LGTM/OK_MARU.png" />
+<img width="240" height="360" alt="OK_MARU_REAL" src="https://raw.githubusercontent.com/kentem-sh-yoshimura/kentem-sh-yoshimura/refs/heads/main/LGTM/OK_MARU_REAL.png" />
