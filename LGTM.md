@@ -12,3 +12,4 @@
 <img width="240" height="360" alt="OK_MARU_REAL" src="https://raw.githubusercontent.com/kentem-sh-yoshimura/kentem-sh-yoshimura/refs/heads/main/LGTM/OK_MARU_REAL.png" />
 <img width="240" height="360" alt="LGTM_ZAKERU" src="https://raw.githubusercontent.com/kentem-sh-yoshimura/kentem-sh-yoshimura/refs/heads/main/LGTM/LGTM_ZAKERU.png" />
 <img width="240" height="360" alt="LGTM_DORAGON" src="https://raw.githubusercontent.com/kentem-sh-yoshimura/kentem-sh-yoshimura/refs/heads/main/LGTM/LGTM_DORAGON.png" />
+<img width="240" height="240" alt="yoshi" src="https://raw.githubusercontent.com/kentem-sh-yoshimura/kentem-sh-yoshimura/refs/heads/main/LGTM/yoshi.png" />
